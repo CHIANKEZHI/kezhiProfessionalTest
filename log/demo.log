@@ -1,0 +1,46 @@
+2018-06-25 09:48:50,628 INFO (StartupInfoLogger.java:48)- Starting TestHelloWorldApplication on KZHUANGFEILONG with PID 14020 (D:\eclipseworkspace\testHelloWorld\target\classes started by HP in D:\eclipseworkspace\testHelloWorld)
+2018-06-25 09:48:50,666 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2018-06-25 09:49:06,737 INFO (StartupInfoLogger.java:57)- Started TestHelloWorldApplication in 17.993 seconds (JVM running for 22.908)
+2018-06-25 09:49:30,199 INFO (TesthelloworldDelegate.java:28)- 查询开始name="jack"
+2018-06-25 09:49:35,594 INFO (TesthelloworldDelegate.java:40)- org.springframework.data.redis.RedisConnectionFailureException: Cannot get Jedis connection; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resource from the pool
+2018-06-25 09:49:35,597 INFO (TesthelloworldDelegate.java:51)- 查询结束name="jack"
+2018-06-25 10:02:54,672 INFO (StartupInfoLogger.java:48)- Starting TestHelloWorldApplication on KZHUANGFEILONG with PID 4916 (D:\eclipseworkspace\testHelloWorld\target\classes started by HP in D:\eclipseworkspace\testHelloWorld)
+2018-06-25 10:02:54,673 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2018-06-25 10:03:07,527 INFO (StartupInfoLogger.java:57)- Started TestHelloWorldApplication in 13.682 seconds (JVM running for 15.16)
+2018-06-25 10:03:26,141 INFO (TesthelloworldDelegate.java:28)- 查询开始name="jack"
+2018-06-25 10:03:28,199 INFO (TesthelloworldDelegate.java:51)- 查询结束name="jack"
+2018-06-25 10:19:44,651 INFO (StartupInfoLogger.java:48)- Starting TestHelloWorldApplication on KZHUANGFEILONG with PID 3708 (D:\eclipseworkspace\testHelloWorld\target\classes started by HP in D:\eclipseworkspace\testHelloWorld)
+2018-06-25 10:19:44,653 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2018-06-25 10:19:54,678 INFO (StartupInfoLogger.java:57)- Started TestHelloWorldApplication in 10.957 seconds (JVM running for 11.764)
+2018-06-25 10:20:16,490 INFO (TesthelloworldDelegate.java:28)- 查询开始name="jack"
+2018-06-25 10:20:18,255 DEBUG (JakartaCommonsLoggingImpl.java:54)- ==>  Preparing: select f_cus_code, f_cus_name,f_phone from t_cus_info where f_cus_code = ? 
+2018-06-25 10:20:18,255 DEBUG (JakartaCommonsLoggingImpl.java:54)- ==>  Preparing: select f_cus_code, f_cus_name,f_phone from t_cus_info where f_cus_code = ? 
+2018-06-25 10:20:18,478 DEBUG (JakartaCommonsLoggingImpl.java:54)- ==> Parameters: "jack"(String)
+2018-06-25 10:20:18,478 DEBUG (JakartaCommonsLoggingImpl.java:54)- ==> Parameters: "jack"(String)
+2018-06-25 10:20:18,527 DEBUG (JakartaCommonsLoggingImpl.java:54)- <==      Total: 0
+2018-06-25 10:20:18,527 DEBUG (JakartaCommonsLoggingImpl.java:54)- <==      Total: 0
+2018-06-25 10:20:18,607 INFO (TesthelloworldDelegate.java:51)- 查询结束name="jack"
+2018-06-25 10:26:55,880 INFO (StartupInfoLogger.java:48)- Starting TestHelloWorldApplication on KZHUANGFEILONG with PID 4916 (D:\eclipseworkspace\testHelloWorld\target\classes started by HP in D:\eclipseworkspace\testHelloWorld)
+2018-06-25 10:26:55,881 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.5.RELEASE, Spring v4.3.5.RELEASE
+2018-06-25 10:26:55,883 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2018-06-25 10:27:06,651 INFO (StartupInfoLogger.java:57)- Started TestHelloWorldApplication in 11.299 seconds (JVM running for 12.456)
+2018-06-25 10:27:19,174 INFO (TesthelloworldDelegate.java:28)- 查询开始name="jack"
+2018-06-25 10:27:20,975 DEBUG (JakartaCommonsLoggingImpl.java:54)- ==>  Preparing: select f_cus_code, f_cus_name,f_phone from t_cus_info where f_cus_code = ? 
+2018-06-25 10:27:20,975 DEBUG (JakartaCommonsLoggingImpl.java:54)- ==>  Preparing: select f_cus_code, f_cus_name,f_phone from t_cus_info where f_cus_code = ? 
+2018-06-25 10:27:21,166 DEBUG (JakartaCommonsLoggingImpl.java:54)- ==> Parameters: "jack"(String)
+2018-06-25 10:27:21,166 DEBUG (JakartaCommonsLoggingImpl.java:54)- ==> Parameters: "jack"(String)
+2018-06-25 10:27:21,213 DEBUG (JakartaCommonsLoggingImpl.java:54)- <==      Total: 0
+2018-06-25 10:27:21,213 DEBUG (JakartaCommonsLoggingImpl.java:54)- <==      Total: 0
+2018-06-25 10:27:21,300 INFO (TesthelloworldDelegate.java:51)- 查询结束name="jack"
+2018-06-25 10:30:17,767 INFO (StartupInfoLogger.java:48)- Starting TestHelloWorldApplication on KZHUANGFEILONG with PID 5312 (D:\eclipseworkspace\testHelloWorld\target\classes started by HP in D:\eclipseworkspace\testHelloWorld)
+2018-06-25 10:30:17,768 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.5.RELEASE, Spring v4.3.5.RELEASE
+2018-06-25 10:30:17,770 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2018-06-25 10:30:28,475 INFO (StartupInfoLogger.java:57)- Started TestHelloWorldApplication in 11.28 seconds (JVM running for 12.121)
+2018-06-25 10:30:44,478 INFO (TesthelloworldDelegate.java:28)- 查询开始name="jack"
+2018-06-25 10:30:46,709 DEBUG (JakartaCommonsLoggingImpl.java:54)- ==>  Preparing: select f_cus_code, f_cus_name,f_phone from t_cus_info where f_cus_code = ? 
+2018-06-25 10:30:46,709 DEBUG (JakartaCommonsLoggingImpl.java:54)- ==>  Preparing: select f_cus_code, f_cus_name,f_phone from t_cus_info where f_cus_code = ? 
+2018-06-25 10:30:46,952 DEBUG (JakartaCommonsLoggingImpl.java:54)- ==> Parameters: "jack"(String)
+2018-06-25 10:30:46,952 DEBUG (JakartaCommonsLoggingImpl.java:54)- ==> Parameters: "jack"(String)
+2018-06-25 10:30:47,006 DEBUG (JakartaCommonsLoggingImpl.java:54)- <==      Total: 0
+2018-06-25 10:30:47,006 DEBUG (JakartaCommonsLoggingImpl.java:54)- <==      Total: 0
+2018-06-25 10:30:47,086 INFO (TesthelloworldDelegate.java:51)- 查询结束name="jack"

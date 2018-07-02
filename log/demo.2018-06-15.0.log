@@ -1,0 +1,21 @@
+2018-06-15 09:50:52,792 INFO (StartupInfoLogger.java:48)- Starting TestHelloWorldApplication on KZHUANGFEILONG with PID 15044 (D:\eclipseworkspace\testHelloWorld\target\classes started by HP in D:\eclipseworkspace\testHelloWorld)
+2018-06-15 09:50:52,847 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2018-06-15 09:51:06,921 INFO (StartupInfoLogger.java:57)- Started TestHelloWorldApplication in 15.502 seconds (JVM running for 16.158)
+2018-06-15 14:15:19,708 INFO (StartupInfoLogger.java:48)- Starting TestHelloWorldApplication on KZHUANGFEILONG with PID 11020 (D:\eclipseworkspace\testHelloWorld\target\classes started by HP in D:\eclipseworkspace\testHelloWorld)
+2018-06-15 14:15:19,709 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2018-06-15 14:15:33,292 INFO (StartupInfoLogger.java:57)- Started TestHelloWorldApplication in 15.168 seconds (JVM running for 15.803)
+2018-06-15 14:16:03,568 INFO (TestMqClient.java:49)- 调用mq失败！ java.net.ConnectException: Connection timed out: connect
+2018-06-15 14:22:21,278 INFO (StartupInfoLogger.java:48)- Starting TestHelloWorldApplication on KZHUANGFEILONG with PID 10084 (D:\eclipseworkspace\testHelloWorld\target\classes started by HP in D:\eclipseworkspace\testHelloWorld)
+2018-06-15 14:22:21,279 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2018-06-15 14:22:36,774 INFO (StartupInfoLogger.java:57)- Started TestHelloWorldApplication in 16.929 seconds (JVM running for 17.645)
+2018-06-15 14:24:55,925 INFO (StartupInfoLogger.java:48)- Starting TestHelloWorldApplication on KZHUANGFEILONG with PID 16296 (D:\eclipseworkspace\testHelloWorld\target\classes started by HP in D:\eclipseworkspace\testHelloWorld)
+2018-06-15 14:24:55,926 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2018-06-15 14:25:09,190 INFO (StartupInfoLogger.java:57)- Started TestHelloWorldApplication in 14.598 seconds (JVM running for 15.481)
+2018-06-15 14:25:38,584 INFO (TesthelloworldDelegate.java:24)- 查询开始name=02201805071728231006
+2018-06-15 14:25:40,185 INFO (TesthelloworldDelegate.java:31)- 查询结束name=02201805071728231006
+2018-06-15 14:26:45,963 INFO (TestMqClient.java:49)- 调用mq失败！ java.net.ConnectException: Connection timed out: connect
+2018-06-15 14:27:12,514 INFO (TestMqClient.java:49)- 调用mq失败！ java.net.ConnectException: Connection timed out: connect
+2018-06-15 14:33:46,686 INFO (StartupInfoLogger.java:48)- Starting TestHelloWorldApplication on KZHUANGFEILONG with PID 9452 (D:\eclipseworkspace\testHelloWorld\target\classes started by HP in D:\eclipseworkspace\testHelloWorld)
+2018-06-15 14:33:46,688 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2018-06-15 14:34:00,895 INFO (StartupInfoLogger.java:57)- Started TestHelloWorldApplication in 15.705 seconds (JVM running for 16.72)
+2018-06-15 14:34:16,525 INFO (TestMqClient.java:49)- 调用mq失败！ java.util.concurrent.TimeoutException

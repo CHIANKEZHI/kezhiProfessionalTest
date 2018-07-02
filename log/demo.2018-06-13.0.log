@@ -1,0 +1,8 @@
+2018-06-13 16:32:20,788 INFO (StartupInfoLogger.java:48)- Starting TestHelloWorldApplication on KZHUANGFEILONG with PID 3636 (D:\eclipseworkspace\testHelloWorld\target\classes started by HP in D:\eclipseworkspace\testHelloWorld)
+2018-06-13 16:32:20,791 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2018-06-13 16:32:34,582 INFO (StartupInfoLogger.java:57)- Started TestHelloWorldApplication in 14.757 seconds (JVM running for 15.753)
+2018-06-13 16:36:49,197 INFO (StartupInfoLogger.java:48)- Starting TestHelloWorldApplication on KZHUANGFEILONG with PID 13860 (D:\eclipseworkspace\testHelloWorld\target\classes started by HP in D:\eclipseworkspace\testHelloWorld)
+2018-06-13 16:36:49,199 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2018-06-13 16:37:01,560 INFO (StartupInfoLogger.java:57)- Started TestHelloWorldApplication in 13.116 seconds (JVM running for 13.787)
+2018-06-13 16:41:06,974 INFO (StartupInfoLogger.java:48)- Starting TestHelloWorldApplication on KZHUANGFEILONG with PID 16064 (D:\eclipseworkspace\testHelloWorld\target\classes started by HP in D:\eclipseworkspace\testHelloWorld)
+2018-06-13 16:41:06,977 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default

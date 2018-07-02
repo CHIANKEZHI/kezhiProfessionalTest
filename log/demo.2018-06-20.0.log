@@ -1,0 +1,29 @@
+2018-06-20 09:36:39,590 INFO (StartupInfoLogger.java:48)- Starting TestHelloWorldApplication on KZHUANGFEILONG with PID 17088 (D:\eclipseworkspace\testHelloWorld\target\classes started by HP in D:\eclipseworkspace\testHelloWorld)
+2018-06-20 09:36:39,653 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2018-06-20 09:36:56,845 INFO (StartupInfoLogger.java:57)- Started TestHelloWorldApplication in 18.997 seconds (JVM running for 19.649)
+2018-06-20 09:43:42,313 INFO (TesthelloworldDelegate.java:28)- 查询开始name="jack"
+2018-06-20 09:43:47,104 INFO (TesthelloworldDelegate.java:40)- org.springframework.data.redis.RedisConnectionFailureException: Cannot get Jedis connection; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resource from the pool
+2018-06-20 09:43:47,105 INFO (TesthelloworldDelegate.java:51)- 查询结束name="jack"
+2018-06-20 10:45:26,859 INFO (StartupInfoLogger.java:48)- Starting TestHelloWorldApplication on KZHUANGFEILONG with PID 4116 (D:\eclipseworkspace\testHelloWorld\target\classes started by HP in D:\eclipseworkspace\testHelloWorld)
+2018-06-20 10:45:26,860 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2018-06-20 10:45:40,327 INFO (StartupInfoLogger.java:57)- Started TestHelloWorldApplication in 14.367 seconds (JVM running for 15.958)
+2018-06-20 10:48:39,319 INFO (StartupInfoLogger.java:48)- Starting TestHelloWorldApplication on KZHUANGFEILONG with PID 8708 (D:\eclipseworkspace\testHelloWorld\target\classes started by HP in D:\eclipseworkspace\testHelloWorld)
+2018-06-20 10:48:39,320 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2018-06-20 10:48:52,647 INFO (StartupInfoLogger.java:57)- Started TestHelloWorldApplication in 14.894 seconds (JVM running for 15.899)
+2018-06-20 10:51:48,700 INFO (StartupInfoLogger.java:48)- Starting TestHelloWorldApplication on KZHUANGFEILONG with PID 11168 (D:\eclipseworkspace\testHelloWorld\target\classes started by HP in D:\eclipseworkspace\testHelloWorld)
+2018-06-20 10:51:48,703 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2018-06-20 10:52:03,232 INFO (StartupInfoLogger.java:57)- Started TestHelloWorldApplication in 16.283 seconds (JVM running for 17.021)
+2018-06-20 11:07:09,051 INFO (StartupInfoLogger.java:48)- Starting TestHelloWorldApplication on KZHUANGFEILONG with PID 9492 (D:\eclipseworkspace\testHelloWorld\target\classes started by HP in D:\eclipseworkspace\testHelloWorld)
+2018-06-20 11:07:09,053 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2018-06-20 11:07:22,026 INFO (StartupInfoLogger.java:57)- Started TestHelloWorldApplication in 14.44 seconds (JVM running for 15.415)
+2018-06-20 11:08:49,027 INFO (StartupInfoLogger.java:48)- Starting TestHelloWorldApplication on KZHUANGFEILONG with PID 5008 (D:\eclipseworkspace\testHelloWorld\target\classes started by HP in D:\eclipseworkspace\testHelloWorld)
+2018-06-20 11:08:49,028 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2018-06-20 11:09:03,467 INFO (StartupInfoLogger.java:57)- Started TestHelloWorldApplication in 15.871 seconds (JVM running for 16.558)
+2018-06-20 11:09:35,086 INFO (TesthelloworldDelegate.java:28)- 查询开始name="jack"
+2018-06-20 11:09:39,950 INFO (TesthelloworldDelegate.java:40)- org.springframework.data.redis.RedisConnectionFailureException: Cannot get Jedis connection; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resource from the pool
+2018-06-20 11:09:39,951 INFO (TesthelloworldDelegate.java:51)- 查询结束name="jack"
+2018-06-20 11:11:11,343 INFO (StartupInfoLogger.java:48)- Starting TestHelloWorldApplication on KZHUANGFEILONG with PID 10996 (D:\eclipseworkspace\testHelloWorld\target\classes started by HP in D:\eclipseworkspace\testHelloWorld)
+2018-06-20 11:11:11,344 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2018-06-20 11:11:24,715 INFO (StartupInfoLogger.java:57)- Started TestHelloWorldApplication in 14.343 seconds (JVM running for 16.07)
+2018-06-20 11:11:39,185 INFO (TesthelloworldDelegate.java:28)- 查询开始name="jack"
+2018-06-20 11:11:41,278 INFO (TesthelloworldDelegate.java:51)- 查询结束name="jack"

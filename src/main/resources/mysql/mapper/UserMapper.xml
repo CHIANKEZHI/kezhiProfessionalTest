@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.service.testhelloworld.dao.UserMapper" >
+    <resultMap id="BaseResultMap" type="com.service.testhelloworld.entity.UserInfoBean" >
+        <result column="f_cus_code" property="fCusCode" jdbcType="VARCHAR" />
+        <result column="f_cus_name" property="fCusName" jdbcType="VARCHAR" />
+        <result column="f_phone" property="fPhone" jdbcType="VARCHAR" />
+    </resultMap>
+
+    <select id="getUserInfoById" resultMap="BaseResultMap" parameterType="String" >
+        select f_cus_code, f_cus_name,f_phone
+        from t_cus_info where f_cus_code = #{userCode}
+    </select>
+</mapper>

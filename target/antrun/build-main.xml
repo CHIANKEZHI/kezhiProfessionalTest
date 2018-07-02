@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <zip destfile="target/testhelloworld-0.0.1-SNAPSHOT.zip">
+    <zipfileset prefix="lib" dir="target/lib"/>
+    <zipfileset includes="*.jar" dir="target"/>
+    <zipfileset includes="start.sh" dir="."/>
+  </zip>
+</target>
+</project>
