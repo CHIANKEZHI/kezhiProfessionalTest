@@ -41,6 +41,7 @@ public class TestHelloWorldApplication extends SpringBootServletInitializer
     	//wuxxnext
     	//张沙
     	//ok111
+    	//ok2222
     }
     
     public static void initMq()
