@@ -39,6 +39,7 @@ public class TestHelloWorldApplication extends SpringBootServletInitializer
         //initMq();
     	//test
     	// testwxx
+    	//testtddd
     }
     
     public static void initMq()
