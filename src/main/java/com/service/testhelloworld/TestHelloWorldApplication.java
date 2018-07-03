@@ -40,6 +40,7 @@ public class TestHelloWorldApplication extends SpringBootServletInitializer
     	//test
     	//testzm
     	//wuxxnext
+    	//张沙
     }
     
     public static void initMq()
