@@ -37,6 +37,7 @@ public class TestHelloWorldApplication extends SpringBootServletInitializer
     	//SpringApplication.run(TestHelloWorldApplication.class, args);
     	new SpringApplicationBuilder().sources(TestHelloWorldApplication.class).web(false).run(); //采用这种方式启动
         //initMq();
+    	//test
     }
     
     public static void initMq()
