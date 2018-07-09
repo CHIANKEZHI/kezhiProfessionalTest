@@ -46,6 +46,8 @@ public class TestHelloWorldApplication extends SpringBootServletInitializer
     	//11111\
     	//222
     	//22222222
+    	
+    	//now
     }
     
     public static void initMq()
